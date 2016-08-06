@@ -77,13 +77,3 @@ sidebar-avatar: /img/avatar-zgzhangkun.jpg      # use absolute URL, seeing it's 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-
-
-# Friends
-Links: [
-    {
-        title: "GitHub",
-        href: "http://su.gallery/"
-    }
-]
