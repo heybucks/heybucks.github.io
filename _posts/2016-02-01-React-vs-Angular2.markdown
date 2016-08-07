@@ -11,6 +11,7 @@ tags:
     - 前端开发
     - JavaScript
     - 译文
+    - SAP
 ---
 
 > 这篇文章转载自[我在知乎专栏「前端外刊评论」上发表的文章](http://zhuanlan.zhihu.com/FrontendMagazine/20549104)。
